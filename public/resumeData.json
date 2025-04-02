@@ -1,0 +1,164 @@
+{
+    "main": {
+        "name" : "Martino Kelvin",
+        "description" : "I am a Front-End developer, Currently serving 2 organizations, first one is the technopreneur division staff (HMIF) and the second is  ImTek division staff (KMK)",
+        "image" : "pp.jpg",
+        "github" : "https://github.com/MartinoKelvin?tab=repositories",
+        "project" : "#portfolio",
+        "bio" : "studying in Institut Teknologi Sumatera, majoring in Informatics Engineering. Have strong interest in business and technology fields. Very comfortable working with many people also work individually in an environment of change, challenges, multiple deadlines, and priorities.",
+        "contactmessage":"Hello, here I am",
+        "email": "martino.123140165@student.itera.ac.id",
+        "phone": "0895621366589",
+        "address":{
+            "street":"Airan II",
+            "city":"Lampung",
+            "state":"South Lampung",
+            "zip": "12345"
+        },
+        "website": "https://github.com/MartinoKelvin",
+        "resumedownload":"https://github.com/MartinoKelvin?tab=repositories",
+        "social":[
+            {
+              "name": "facebook",
+              "url": "https://www.facebook.com/martino.kelvin.1",
+              "className": "fa fa-facebook"
+            },
+            {
+              "name":"twitter",
+              "url":"https://x.com/MartinoKel90114",
+              "className":"fa fa-twitter"
+            },
+            {
+              "name":"linkedin",
+              "url":"https://www.linkedin.com/in/martino-kelvin/",
+              "className":"fa fa-linkedin"
+            },
+            {
+              "name":"instagram",
+              "url":"http://instagram.com/martinokelvin_14",
+              "className":"fa fa-instagram"
+            },
+            {
+              "name":"github",
+              "url":"https://github.com/MartinoKelvin?tab=repositories",
+              "className":"fa fa-github"
+            }
+        ]
+    },
+     "resume": {
+    "skillmessage": "Here you can look a short description of my skills.",
+    "education": [
+      {
+        "school": "Institute Technology Sumatera",
+        "degree": "Undergraduate Informatics Engineeting Student at Institute Technology Sumatera",
+        "graduated": "2023 - Present",
+        "description": "I am a Front-End developer, Currently serving 2 organizations, first one is the technopreneur division staff (HMIF) and the second is  ImTek division staff (KMK)"
+      },
+      {
+        "school": "SMA IGNATIUS GLOBAL SCHOOL PALEMBANG",
+        "degree": "Science",
+        "graduated": "2020 - 2023",
+        "description": "i have studied html and css basic"
+      }
+    ],
+    "work": [
+      {
+        "company": "HMIF ITERA (Himpunan Mahasiswa Teknik informatika ITERA)",
+        "title": "Staff of Technopreneur",
+        "years": "March 2025 - Present",
+        "description": "Developing website from clients and creating several dummy projects"
+      },
+      {
+        "company": "KMK ITERA (Keluarga Mahasiswa Katolik ITERA)",
+        "title": "Staff of ImTek(Implementasi Teknologi)",
+        "years": "March 2025 - Present",
+        "description": "Creating website for KMK ITERA for media information oriented website. i'm as Front-end developer and ui/ux at this team."
+      },
+      {
+        "company": "Institute Technology Sumatera",
+        "title": "Practicum Assistant PKS II",
+        "years": "Feb 2025 - Present",
+        "description": "Teaching first college student about c++ programming."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Java Script",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "88%"
+      },{
+        "name": "Python",
+        "level": "65%"
+      },{
+        "name": "C++",
+        "level": "90%"
+      },{
+        "name": "solidity",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Search Engine Film",
+        "category": "My travel blog for my post-university",
+        "image": "film.jpg",
+        "url": "https://github.com/MartinoKelvin/Search-Engine-Film"
+      },
+      {
+        "title": "Game Suit againt a bot",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "suit.jpg",
+        "url": "https://github.com/MartinoKelvin/Game-Suit"
+      },
+      {
+        "title": "Galery Photo your idol",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "idol.jpg",
+        "url": "https://github.com/MartinoKelvin/Myidolss"
+      },
+      {
+        "title": "E-voting PEMIRA KMK 2024",
+        "category": "A React based resume website template",
+        "image": "e-voting.jpg",
+        "url": "https://github.com/MartinoKelvin/PemiraKMK2024-E-Voting"
+      },
+      {
+        "title": "Object-Oriented-Programming",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "99.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Algorithm Strategy",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "99.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Website Client",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "99.jpg",
+        "url": "#"
+      },
+      {
+        "title": "KMK Website",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "99.jpg",
+        "url": "#"
+      }
+    ]
+  }
+}
