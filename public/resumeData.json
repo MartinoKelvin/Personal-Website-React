@@ -63,6 +63,12 @@
     ],
     "work": [
       {
+        "company": "KM-ITERA (Keluarga Mahasiswa INSTITUT TEKNOLOGI SUMATERA)",
+        "title": "Staff of TI(TECHNOLOGY INFORMATION)",
+        "years": "March 2025 - Present",
+        "description": "Creating website for KM ITERA for media information oriented website. i'm as Front-end developer at this team."
+      },
+      {
         "company": "HMIF ITERA (Himpunan Mahasiswa Teknik informatika ITERA)",
         "title": "Staff of Technopreneur",
         "years": "March 2025 - Present",
@@ -98,6 +104,12 @@
         "name": "ReactJS",
         "level": "88%"
       },{
+        "name": "NextJS",
+        "level": "95%"
+      },{
+        "name": "Tailwind CSS",
+        "level": "90%"
+      },{
         "name": "Python",
         "level": "65%"
       },{
@@ -111,6 +123,30 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "KM - ITERA Website",
+        "category": "KM ITERA Website",
+        "image": "KM.jpg",
+        "url": "https://km-itera.com/"
+      },
+      {
+        "title": "KMK Website",
+        "category": "KMK ITERA Website",
+        "image": "kmk.jpg",
+        "url": "https://kmk-st-thomas-aquinas-itera.vercel.app/"
+      },
+      {
+        "title": "Birhtday website",
+        "category": "My BIRHDAY website",
+        "image": "ultah.jpg",
+        "url": "https://happybirthdayyaasayang.vercel.app/"
+      },
+      {
+        "title": "SiCheCo Website Client",
+        "category": "SICHECO is a website for a company that sells various types of products",
+        "image": "sicheco.jpg",
+        "url": "https://sicheco.my.id/"
+      },
       {
         "title": "Search Engine Film",
         "category": "My travel blog for my post-university",
@@ -134,31 +170,9 @@
         "category": "A React based resume website template",
         "image": "e-voting.jpg",
         "url": "https://github.com/MartinoKelvin/PemiraKMK2024-E-Voting"
-      },
-      {
-        "title": "Object-Oriented-Programming",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "99.jpg",
-        "url": "#"
-      },
-      {
-        "title": "Algorithm Strategy",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "99.jpg",
-        "url": "#"
-      },
-      {
-        "title": "Website Client",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "99.jpg",
-        "url": "#"
-      },
-      {
-        "title": "KMK Website",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "99.jpg",
-        "url": "#"
       }
+      
+      
     ]
   }
 }
