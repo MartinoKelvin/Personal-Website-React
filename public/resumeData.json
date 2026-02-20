@@ -1,7 +1,7 @@
 {
     "main": {
         "name" : "Martino Kelvin",
-        "description" : "I am a Front-End developer, Currently serving 2 organizations, first one is the technopreneur division staff (HMIF) and the second is  ImTek division staff (KMK)",
+        "description" : "I am a Fullstack Developer and currently serving as Minister of the IT Division at KM ITERA, leading digital initiatives and overseeing the development of internal systems and web platforms.",
         "image" : "pp.jpg",
         "github" : "https://github.com/MartinoKelvin?tab=repositories",
         "project" : "#portfolio",
@@ -35,7 +35,7 @@
             },
             {
               "name":"instagram",
-              "url":"http://instagram.com/martinokelvin_14",
+              "url":"http://instagram.com/martinokelvin_",
               "className":"fa fa-instagram"
             },
             {
@@ -61,8 +61,13 @@
         "description": "i have studied html and css basic"
       }
     ],
-    "work": [
-      {
+    "work": [{
+        "company": "KM-ITERA (Keluarga Mahasiswa INSTITUT TEKNOLOGI SUMATERA)",
+        "title": "Menteri of TI(TECHNOLOGY INFORMATION)",
+        "years": "Feb 2026 - Present",
+        "description": "Creating website for KM ITERA for media information oriented website. i'm as Project Manager at this team."
+      },
+            {
         "company": "KM-ITERA (Keluarga Mahasiswa INSTITUT TEKNOLOGI SUMATERA)",
         "title": "Staff of TI(TECHNOLOGY INFORMATION)",
         "years": "March 2025 - Present",
@@ -107,6 +112,17 @@
         "name": "NextJS",
         "level": "95%"
       },{
+        "name": "Laravel",
+        "level": "85%"
+      },
+      {
+        "name": "Filament",
+        "level": "70%"
+      },
+      {
+        "name": "Kotlin MultiPlatform",
+        "level": "65%"
+      },{
         "name": "Tailwind CSS",
         "level": "90%"
       },{
@@ -118,11 +134,42 @@
       },{
         "name": "solidity",
         "level": "50%"
+      },
+      {
+        "name": "MySQL",
+        "level": "90%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "80%"
+      },
+      {
+        "name": "firebase",
+        "level": "75%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "HMIF Website",
+        "category": "HMIF Website",
+        "image": "hmif.png",
+        "url": "https://hmif-itera.com/"
+      },      
+      {
+        "title": "Website Artikel Technology Information",
+        "category": "Website Artikel",
+        "image": "berita.png",
+        "url": "https://github.com/MartinoKelvin/lkmo-done"
+      },
+
+      {
+        "title": "Wonderfull Inn",
+        "category": "Travel Agency Website",
+        "image": "wonderfullin.png",
+        "url": "https://wonderfull-inn.vercel.app/"
+      },
       {
         "title": "KM - ITERA Website",
         "category": "KM ITERA Website",
@@ -133,7 +180,7 @@
         "title": "KMK Website",
         "category": "KMK ITERA Website",
         "image": "kmk.jpg",
-        "url": "https://kmk-st-thomas-aquinas-itera.vercel.app/"
+        "url": "https://kmkitera.com/"
       },
       {
         "title": "Birhtday website",
